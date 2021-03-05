@@ -5,8 +5,11 @@ Este software esta diseñano para la empresa TupperWare y trata de darle la info
 Este software esta conformado por variables, que es la información principal de la programación, para despues ser ejecutada y se obtengan los resultados finales.<br>
 El inicio de la programación empieza con el nombre del proyecto y sigue con el metodo main en donde se encierra todo.<br>
 Despues sigue con los datos del proyecto, donde se encuentran las diferentes variables.<br>
-Continua con el Funcionamiento del programa, en donde se muestra el resultado en la consola con los System.out.println.<br>
-Cada dato o variable tiene un System.out.println para mostrar el resultado en la consola<br>
+Continua con el Funcionamiento del programa, en donde se muestra el resultado en la consola con los "System.out.println".<br>
+Cada dato o variable tiene un "System.out.println" para mostrar el resultado en la consola<br>
 <br>
+<br>
+Existen otros datos a la mitad de programación que estan encerrados en un "double". Estos datos son diferentes a los anterioes ya que poseen otra información.
+Estos datos tienen "if" y "System.out.println" para mostrar los resultados en la consola.
 <br>
  https://notstev-e.github.io/Distribuidora_Tupperware/
